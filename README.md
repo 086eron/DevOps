@@ -1,2 +1,2 @@
-# DevOps
+# DevOps Resources
 DevOps Resources 
